@@ -1,0 +1,30 @@
+[
+    {
+        "nombre": "Primer Domingo de Junio",
+        "comentarios": null,
+        "fecha": "2023-06-04",
+        "irrenunciable": "0",
+        "tipo": "Domingo"
+    },
+    {
+        "nombre": "Segundo Domingo de Junio",
+        "comentarios": null,
+        "fecha": "2023-06-11",
+        "irrenunciable": "0",
+        "tipo": "Domingo"
+    },
+    {
+        "nombre": "Tercer Domingo de Junio",
+        "comentarios": "Día del padre",
+        "fecha": "2023-06-18",
+        "irrenunciable": "0",
+        "tipo": "Domingo"
+    },
+    {
+        "nombre": "Cuarto Domingo de Junio",
+        "comentarios": null,
+        "fecha": "2023-06-25",
+        "irrenunciable": "0",
+        "tipo": "Domingo"
+    }
+]
